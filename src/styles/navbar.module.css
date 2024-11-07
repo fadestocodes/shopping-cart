@@ -1,0 +1,10 @@
+.cart-container{
+    display: flex;
+    justify-content: end ;
+    align-items: center;
+    padding: 2% 3% 2% 3%;
+    cursor: pointer;
+}
+
+
+
